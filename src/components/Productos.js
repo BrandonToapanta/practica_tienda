@@ -1,5 +1,5 @@
 import { Component } from "react";
-import Producto from './Producto';
+import Producto from "./Producto";
 
 const styles = {
     productos: {

@@ -22,8 +22,9 @@ class Carro extends Component {
     render() {
         return (
             <div>
-                <span style={styles.bubble} />
-                <BubbleAlert />
+                <span style={styles.bubble} >
+                    <BubbleAlert />
+                </span>
                 <button style={styles.carro}>
                     Carro
                 </button>
